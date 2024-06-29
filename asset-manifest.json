@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Drum-pad/static/css/main.420dcca5.css",
-    "main.js": "/Drum-pad/static/js/main.fa4bf29a.js",
-    "static/js/453.4d61f61c.chunk.js": "/Drum-pad/static/js/453.4d61f61c.chunk.js",
-    "index.html": "/Drum-pad/index.html",
-    "main.420dcca5.css.map": "/Drum-pad/static/css/main.420dcca5.css.map",
-    "main.fa4bf29a.js.map": "/Drum-pad/static/js/main.fa4bf29a.js.map",
-    "453.4d61f61c.chunk.js.map": "/Drum-pad/static/js/453.4d61f61c.chunk.js.map"
+    "main.css": "/react-Drum-pad/static/css/main.420dcca5.css",
+    "main.js": "/react-Drum-pad/static/js/main.f6e78578.js",
+    "static/js/453.4d61f61c.chunk.js": "/react-Drum-pad/static/js/453.4d61f61c.chunk.js",
+    "index.html": "/react-Drum-pad/index.html",
+    "main.420dcca5.css.map": "/react-Drum-pad/static/css/main.420dcca5.css.map",
+    "main.f6e78578.js.map": "/react-Drum-pad/static/js/main.f6e78578.js.map",
+    "453.4d61f61c.chunk.js.map": "/react-Drum-pad/static/js/453.4d61f61c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.420dcca5.css",
-    "static/js/main.fa4bf29a.js"
+    "static/js/main.f6e78578.js"
   ]
 }
